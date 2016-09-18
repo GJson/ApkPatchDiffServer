@@ -8,11 +8,3 @@
 /captures
 
 .idea/misc.xml
-
-/build/
-build/
-
-.idea/workspace.xml
-.idea/
-
-build/classes/main/com/cundong/apkdiff/ApkDiffDemo.class
