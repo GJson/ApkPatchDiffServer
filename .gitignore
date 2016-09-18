@@ -7,6 +7,8 @@
 /build
 /captures
 
-.idea/misc.xml
+bin/
 
-.idea/workspace.xml
+.idea/
+
+
